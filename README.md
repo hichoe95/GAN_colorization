@@ -16,9 +16,13 @@ It has only noise.. without any shape
 
 ### Trial 2
 
-<img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%2012.34.09.png?raw=true" width = "50%">
+<img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%2010.37.12.png?raw=true" width = "50%">
 
-<img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%2012.34.22.png?raw=true" width="50%">
+<img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%2010.36.48.png?raw=true" width="50%">
+
+<img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%2010.36.41.png?raw=true" width="50%">
+
+<img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%2010.36.34.png?raw=true" width="50%">
 
 It seems a little successful. But its image is ambiguous.
 
