@@ -324,9 +324,3 @@ for epoch in range(100):
             print('[%d, %5d] real loss: %.4f, fake_loss : %.4f, g_loss : %.4f' % (epoch + 1, i+1, real_loss.data[0],fake_loss.data[0], g_loss.data[0]))
             imshow(fake_img.cpu())
             plt.show()
-
-
-
-
-
-
