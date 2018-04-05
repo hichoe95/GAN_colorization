@@ -28,6 +28,8 @@ It seems a little successful. But its image is ambiguous.
 
 <img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%205.42.23.png?raw=true" width = "50%">
 
+I just added encoded output to decoded output to remember original image's shape in Generator.
+
 Now, we can recognize colorized cat and dog image.
 
 If I have some more try, I will get perfect color image... 
