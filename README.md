@@ -5,6 +5,8 @@ I'll update continuously...
 
 Until now , these are incomplete result.
 
+These only have training code. When I complete this model, I'll upload full code and test result.
+
 
 ### Trial 1
 
