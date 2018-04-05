@@ -326,28 +326,6 @@ for epoch in range(100):
             plt.show()
 
 
-# In[ ]:
-
-
-model.eval()
-
-for i, data in enumerate(test_loader,0) :
-    images, label = data
-    images = torch.FloatTensor(np.resize(images.numpy(),(4,1,imsz,imsz)))
-
-    images, label = Variable(images.cuda(gpu)), Variable(label.cuda(gpu))
-                
-    output = model(images)
-        
-    out = torchvision.utils.make_grid(output.data)
-    images = torchvision.utils.make_grid(images.data)
-    imshow(images.cpu())
-    plt.show()
-    imshow(out.cpu())
-    plt.show()
-
-
-# In[ ]:
 
 
 
