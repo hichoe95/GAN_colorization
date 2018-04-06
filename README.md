@@ -1,7 +1,7 @@
 # GAN_colorization
 pytorch GAN_colorzation
 
-These have Trial_1 ~ Fianl.
+These have Trial_1 ~ Final version.
 
 Trial_1 ~ Trial_3 has only training part, but Final has full code(it has test result)
 
