@@ -1,12 +1,9 @@
 # GAN_colorization
 pytorch GAN_colorzation
 
-I'll update continuously...
+These have Trial_1 ~ Fianl.
 
-Until now , these are incomplete result.
-
-These only have training code. When I complete this model, I'll upload full code and test result.
-
+Trial_1 ~ Trial_3 has only training part, but Final has full code(it has test result)
 
 ## Trial 1
 
