@@ -43,12 +43,16 @@ If I have some more try, I will get perfect color image...
 
 ## Final
 
+final code conclude testing.
+
 ### Generator
 
 <img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/Untitled%20Diagram.jpg?raw=true" width = "50%">
 
 
 ### Result
+
+it is result which used test images (not training image)
 In order,
 input (black and white image),
 original color image,
