@@ -5,6 +5,12 @@ These have Trial_1 ~ Final version.
 
 Trial_1 ~ Trial_3 has only training part, but Final has full code(it has test result)
 
+## Training
+
+Data : kaggle cat vs dog images(25000, 12500 cats, 12500 dogs).
+training time : about 2h 30m
+
+
 ## Trial 1
 
 <img src="https://github.com/hichoe95/GAN_colorization/blob/master/result_IMG_in_training/스크린샷%202018-04-05%20오후%2012.41.04.png?raw=true" width="50%">
