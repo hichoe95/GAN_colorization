@@ -74,3 +74,7 @@ The result is not bad but I need to study more.
 
 https://taeoh-kim.github.io/blog/gan을-이용한-image-to-image-translation-pix2pix-cyclegan-discogan/
 https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/deep_convolutional_gan
+
+## My Blog
+
+http://hichoe95.tistory.com
