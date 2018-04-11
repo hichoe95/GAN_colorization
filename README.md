@@ -46,7 +46,7 @@ If I have some more try, I will get perfect color image...
 
 ## Final
 
-final code conclude testing.
+final code include testing.
 
 ### Generator
 
