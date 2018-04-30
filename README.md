@@ -5,6 +5,12 @@ These have Trial_1 ~ Final version.
 
 Trial_1 ~ Trial_3 has only training part, but Final has full code(it has test result)
 
+## Use..
+
+python 3.5
+pytorch 0.3.1
+GPU Titan X(pascal)
+
 ## Training
 
 Data : kaggle cat vs dog images(25000, 12500 cats, 12500 dogs).
