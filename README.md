@@ -8,7 +8,9 @@ Trial_1 ~ Trial_3 has only training part, but Final has full code(it has test re
 ## Use..
 
 python 3.5
+
 pytorch 0.3.1
+
 GPU Titan X(pascal)
 
 ## Training
