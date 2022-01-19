@@ -3,9 +3,9 @@ pytorch GAN_colorzation
 
 These have Trial_1 ~ Final version.
 
-Trial_1 ~ Trial_3 has only training part, but Final has full code(it has test result)
+Trial_1 ~ Trial_3 has only training part, but Final has full code (it has test results)
 
-## Use..
+## Dependencies
 
 python 3.5
 
@@ -86,6 +86,6 @@ The result is not bad but I need to study more.
 https://taeoh-kim.github.io/blog/gan을-이용한-image-to-image-translation-pix2pix-cyclegan-discogan/
 https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/deep_convolutional_gan
 
-## My Blog
+## Blog
 
 http://hichoe95.tistory.com
